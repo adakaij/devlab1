@@ -25,6 +25,14 @@ body{
 .footer{
     background-color:#7C3931;
 }
+.contact{
+    background-color:#838143;
+}
+.contact a {
+    margin:15px;
+    font-family: 'Muli', sans-serif;
+    color:white;
+}
 .link{
     color:white;
 }
@@ -36,7 +44,8 @@ img{
     font-family: 'Muli', sans-serif;
 }
 #mypic{
-    width:30px;
+    width:150px;
+    border-radius:80%; 
 }
-}
+
 /*#4F2A37, #7C3931, #819211, #C38A20, #838143*/
