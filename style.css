@@ -1,0 +1,42 @@
+.row{   
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:45px;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-family: 'Muli', sans-serif;
+}
+body{
+    text-align:center;
+}
+.footer a{
+    margin:15px;
+    font-family: 'Muli', sans-serif;
+}
+.footer{
+    background-color:#7C3931;
+}
+.link{
+    color:white;
+}
+img{
+    width:950px;
+}
+.aboutme{
+    color:black;
+    font-family: 'Muli', sans-serif;
+}
+#mypic{
+    width:30px;
+}
+}
+/*#4F2A37, #7C3931, #819211, #C38A20, #838143*/
